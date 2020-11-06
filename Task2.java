@@ -8,6 +8,8 @@ class Task2 {
     }
 
     for(int k = 4-i; k >=0 ; k--)
+
+    
     System.out.print( k+1);
 
  System.out.println();
